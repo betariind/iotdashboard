@@ -2,3 +2,4 @@ streamlit==1.17.0
 pandas==1.2.4
 requests==2.25.1
 pillow==8.2.0
+tk==8.6.10
